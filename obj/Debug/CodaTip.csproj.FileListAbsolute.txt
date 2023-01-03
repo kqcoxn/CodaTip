@@ -1,0 +1,11 @@
+D:\Packet\程序\项目\CodaTip\CodaTip\CodaTip\bin\Debug\CodaTip.exe.config
+D:\Packet\程序\项目\CodaTip\CodaTip\CodaTip\bin\Debug\CodaTip.exe
+D:\Packet\程序\项目\CodaTip\CodaTip\CodaTip\bin\Debug\CodaTip.pdb
+D:\Packet\程序\项目\CodaTip\CodaTip\CodaTip\obj\Debug\CodaTip.csproj.AssemblyReference.cache
+D:\Packet\程序\项目\CodaTip\CodaTip\CodaTip\obj\Debug\CodaTip.csproj.SuggestedBindingRedirects.cache
+D:\Packet\程序\项目\CodaTip\CodaTip\CodaTip\obj\Debug\CodaTip.Form1.resources
+D:\Packet\程序\项目\CodaTip\CodaTip\CodaTip\obj\Debug\CodaTip.Properties.Resources.resources
+D:\Packet\程序\项目\CodaTip\CodaTip\CodaTip\obj\Debug\CodaTip.csproj.GenerateResource.cache
+D:\Packet\程序\项目\CodaTip\CodaTip\CodaTip\obj\Debug\CodaTip.csproj.CoreCompileInputs.cache
+D:\Packet\程序\项目\CodaTip\CodaTip\CodaTip\obj\Debug\CodaTip.exe
+D:\Packet\程序\项目\CodaTip\CodaTip\CodaTip\obj\Debug\CodaTip.pdb
